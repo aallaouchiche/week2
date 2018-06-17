@@ -1,0 +1,186 @@
+
+ table.articles_table tbody td {
+     font-size: 13px;
+}
+ table.articles_table tr:nth-child(even) {
+     background: #D0E4F5;
+}
+ #img_missed{
+background-color: rgb(240, 240, 240) ;
+background-image: url(https://cdn-images-1.medium.com/max/800/0*7Ouq_ZRCX5XSzk-p.jpg) ;
+background-origin: border-box ;
+background-position-x: 50% ;
+background-position-y: 50% ;
+background-size: cover ;
+color: rgba(0, 0, 0, 0.84) ;
+cursor: pointer ;
+display: block ;
+font-family: medium-content-sans-serif-font, -apple-system, system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif ;
+font-size: 16px ;
+font-style: normal ;
+font-weight: 400 ;
+height: 100px ;
+letter-spacing: normal ;
+line-height: 20px ;
+text-decoration-color: rgba(0, 0, 0, 0.84) ;
+text-decoration-line: none ;
+text-decoration-style: solid ;
+text-rendering: optimizeLegibility ;
+text-size-adjust: 100% ;
+visibility: visible ;
+width: 100% ;
+-webkit-font-smoothing: antialiased ;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0) ;
+float: left;
+border: 1px solid lightgrey;
+padding:1px;
+}
+ #follow_missed{
+     float: right;
+     width: 100px;
+     height: 50px;
+    /* border: 3px solid #73AD21;
+     */
+}
+ h3.title_Article_missed {
+     margin:1px;
+}
+ #avatar_pic_missed {
+     width: 40px;
+     height: 40px;
+     position: relative;
+     border-radius: 50%;
+     top: 0px;
+     right: 0px;
+     bottom: 0px;
+     left: 0px;
+     margin-top: 0px;
+     margin-right: 0px;
+     margin-bottom: 0px;
+     margin-left: 0px;
+     color: rgba(0, 0, 0, 0.84);
+     display: inline-block;
+     visibility: visible;
+}
+ #avatar_text_missed {
+     width: 40px;
+     height: 40px;
+     position: relative;
+     top: 0px;
+     right: 0px;
+     bottom: 0px;
+     left: 0px;
+     margin-top: 0px;
+     margin-right: 0px;
+     margin-bottom: 0px;
+     margin-left: 0px;
+     color: rgba(0, 0, 0, 0.84);
+     display: block;
+     visibility: visible;
+}
+ #avatar_author_name_missed {
+}
+ #missedcol-5{
+     width: 30%;
+     height: 320px;
+     margin:2px;
+     padding: 0px;
+     border: 1px solid lightgrey;
+     background-color: rgb(255, 255, 255) ;
+     border-bottom-color: rgba(0, 0, 0, 0.1) ;
+     border-bottom-left-radius: 2px ;
+     border-bottom-right-radius: 2px ;
+     border-bottom-style: solid ;
+     border-bottom-width: 1px ;
+     border-image-outset: 0px ;
+     border-image-repeat: stretch ;
+     border-image-slice: 100% ;
+     border-image-source: none ;
+     border-image-width: 1 ;
+     border-left-color: rgba(0, 0, 0, 0.1) ;
+     border-left-style: solid ;
+     border-left-width: 1px ;
+     border-right-color: rgba(0, 0, 0, 0.1) ;
+     border-right-style: solid ;
+     border-right-width: 1px ;
+     border-top-color: rgba(0, 0, 0, 0.1) ;
+     border-top-left-radius: 2px ;
+     border-top-right-radius: 2px ;
+     border-top-style: solid ;
+     border-top-width: 1px ;
+     color: rgba(0, 0, 0, 0.84) ;
+     display:block ;
+     font-family: medium-content-sans-serif-font, -apple-system, system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif ;
+     letter-spacing: normal ;
+     line-height: 20px ;
+     margin-bottom: 20px ;
+     margin-left: 10px;
+     overflow-x: hidden ;
+     overflow-y: hidden ;
+     position: relative ;
+     text-rendering: optimizeLegibility ;
+     text-size-adjust: 100% ;
+     visibility: visible ;
+     width: 490px ;
+     -webkit-font-smoothing: antialiased ;
+}
+ #memberPreview_missed{
+     float: right;
+}
+ #audio_missed{
+     float: left;
+}
+ #audio_preview_missed{
+     color: rgba(0, 0, 0, 0.54) ;
+     display: inline ;
+     fill: rgba(0, 0, 0, 0.54) ;
+     font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif ;
+     font-size: 15px ;
+     font-style: normal ;
+     font-weight: 400 ;
+     height: auto ;
+     letter-spacing: normal ;
+     line-height: 20px ;
+     margin-left: 3px ;
+     text-rendering: optimizeLegibility ;
+     text-size-adjust: 100% ;
+     visibility: visible ;
+     width: auto ;
+     -webkit-box-direction: normal ;
+     -webkit-font-smoothing: antialiased ;
+}
+ #pond_missed {
+     display: flex;
+     justify-content: space-around;
+}
+ .u-flex_missed{
+     border-bottom-width:0.8px;
+}
+
+#missed_title_author {
+  box-sizing: border-box ;
+ color: rgba(0, 0, 0, 0.84) ;
+ display:block ;
+
+ font-family: medium-content-sans-serif-font, -apple-system, system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif ;
+ font-size: 16px ;
+ font-style: normal ;
+ font-weight: 400 ;
+ height: 160px ;
+
+ letter-spacing: normal ;
+ line-height: 20px ;
+ padding-bottom: 16px ;
+ padding-left: 16px ;
+ padding-right: 16px ;
+ padding-top: 16px ;
+ text-rendering: optimizeLegibility ;
+ text-size-adjust: 100% ;
+ visibility: visible ;
+ width: 321.328px ;
+ -webkit-box-direction: normal ;
+ -webkit-box-orient: vertical ;
+ -webkit-box-pack: center ;
+ -webkit-font-smoothing: antialiased ;
+
+}
